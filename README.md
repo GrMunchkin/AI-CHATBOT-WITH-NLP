@@ -37,3 +37,4 @@ Debug messages are included to display which keyword or TF-IDF match was selecte
 Finally, the program runs in an infinite loop that allows continuous interaction with the user. It greets the user, accepts input, processes queries, and prints chatbot responses. The loop terminates only when the user types “exit”, ensuring controlled and user-friendly interaction.
 
 *OUTPUT*:
+<img width="1134" height="636" alt="Image" src="https://github.com/user-attachments/assets/e90a445d-803c-4031-841a-89734953cef0" />
